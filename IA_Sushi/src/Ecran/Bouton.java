@@ -3,6 +3,7 @@ package Ecran;
 import java.awt.Robot;
 import java.awt.event.InputEvent;
 
+
 public class Bouton{
 	// Les coordonnées indiquent la position relative par rapport au coin supérieur gauche du jeu
 	private int coord_rel_x;
