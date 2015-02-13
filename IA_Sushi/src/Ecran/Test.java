@@ -15,6 +15,8 @@ import java.net.URISyntaxException;
 
 import javax.imageio.ImageIO;
 
+//Test Adrien
+
 public class Test{
 	// Indiquer le delay dans la variable jeu ??
 	public static void main (String [] args) throws AWTException, IOException, URISyntaxException{
