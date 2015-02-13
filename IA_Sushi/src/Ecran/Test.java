@@ -15,7 +15,7 @@ import java.net.URISyntaxException;
 
 import javax.imageio.ImageIO;
 
-//Test Adrien123
+//Test Adrien1234
 
 public class Test{
 	// Indiquer le delay dans la variable jeu ??
